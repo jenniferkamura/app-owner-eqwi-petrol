@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "444487497682",
+    "project_id": "eqwipetrol",
+    "storage_bucket": "eqwipetrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444487497682:android:3e62ebf148f5c78f4b7a0b",
+        "android_client_info": {
+          "package_name": "com.eqwipetrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444487497682-cdjm2ga1sfm0ilt86ijs62i07qhlt8q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eqwipetrol",
+            "certificate_hash": "9c2376944c16e65d890d298af3505f206edcb34d"
+          }
+        },
+        {
+          "client_id": "444487497682-imoaav7289feu3edtvnk802uhnc0oj4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eqwipetrol",
+            "certificate_hash": "2a22ea9880349f2c9c8b5b023c3e55b2f0591b11"
+          }
+        },
+        {
+          "client_id": "444487497682-q40frbpc7gg0d46an4tgma8627uda5eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eqwipetrol",
+            "certificate_hash": "469c4c89823747dbd67f6fc73991d9d3ebdf59f3"
+          }
+        },
+        {
+          "client_id": "444487497682-r3ji6vqskpmat2eqga6a8atspok42csr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4x65lDL3_pjdQX3shECTCgYgAWWRclj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444487497682-p2pvkt7oc2motjg5ureaeht6pehnljp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444487497682-fkaldnu2mgh252bdj706d0793oji2htk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eqwipetrol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
